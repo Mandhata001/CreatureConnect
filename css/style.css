@@ -1,6 +1,6 @@
 .gradient-background {
 
-    background: linear-gradient(300deg, #00bfff, #4cffc6, #075f1e);
+    background: linear-gradient(300deg, #06a0d4, #4cffc6, #075f1e);
     background-size: 180% 180%;
     animation: gradient-animation 18s ease infinite;
   }
